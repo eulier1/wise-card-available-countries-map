@@ -11,7 +11,7 @@ Look at the  to learn more.
 - [Vercel for Deployment](https://vercel.com)
 
 ## Recording Process
-[Recording YouTube Process]() // Waiting for video to upload
+[Recording YouTube Process](https://www.youtube.com/playlist?list=PL_sapWkWdZHF3NuM3ZwvTx1NTgTQzPqtv)
 
 ## Setup
 
